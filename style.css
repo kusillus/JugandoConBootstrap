@@ -1,0 +1,27 @@
+.navbar-inverse {
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus{
+	color:  #272728;
+}
+.navbar-brand {
+	font-size: 27px;
+	color: #202021;
+}
+.navbar-form .form-group {
+	font-size: 19px;
+	color: #999999;
+}
+.container .barra2{
+	padding-top: 30px;
+}
+.form-control{
+	margin-top: 5%;
+}
+.cont{
+	margin-top: 5%;
+}
+.btn-lg{
+	padding: 10px 41%;
+}
